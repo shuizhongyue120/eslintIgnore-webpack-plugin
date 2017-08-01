@@ -1,7 +1,7 @@
 {
-  "name": "eslint-ignore",
-  "version": "1.0.0",
-  "description": "eslintIgnore webpack eslint-loader",
+  "name": "eslint-ignore-webpack",
+  "version": "1.0.1",
+  "description": "use eslintIgnore file in webpack eslint-loader",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},

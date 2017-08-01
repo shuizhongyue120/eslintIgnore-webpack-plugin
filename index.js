@@ -19,7 +19,7 @@ function getIgnorePaths() {
             var url = item.replace(/\r/g, ""); //替换末尾的\r
             // /**结尾的路径 替换/**
             url = url.replace(/\/\*\*$/g, "");
-            rsrow.push(path.resolve(__dirname, "." + url));
+            rsrow.push(path.resolve(__dirname, "../../" + url));
         }
     }
 
